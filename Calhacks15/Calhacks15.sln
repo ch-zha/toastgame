@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calhacks15.CSharp.Plugins", "Calhacks15.CSharp.Plugins.csproj", "{EA2633D5-0763-1B4E-215F-81FA74E934DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calhacks15.CSharp.Editor", "Calhacks15.CSharp.Editor.csproj", "{6E71C679-6CE5-1043-F0D3-D731B47B38D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2633D5-0763-1B4E-215F-81FA74E934DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2633D5-0763-1B4E-215F-81FA74E934DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2633D5-0763-1B4E-215F-81FA74E934DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2633D5-0763-1B4E-215F-81FA74E934DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E71C679-6CE5-1043-F0D3-D731B47B38D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E71C679-6CE5-1043-F0D3-D731B47B38D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E71C679-6CE5-1043-F0D3-D731B47B38D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E71C679-6CE5-1043-F0D3-D731B47B38D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
